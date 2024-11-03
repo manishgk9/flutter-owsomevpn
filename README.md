@@ -15,34 +15,30 @@
 
 ### Screenshots
 
-![Splash Screen](assets/screenshots/ss_00.png)
-![Intro Screen 1](assets/screenshots/ss_01.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-![Intro Screen 2](assets/screenshots/ss_02.png)
+<img src="assets/screenshots/ss_00.png" alt="Splash Screen" width="23%">
+<img src="assets/screenshots/ss_01.png" alt="Intro Screen 1" width="23%">
+<img src="assets/screenshots/ss_02.png" alt="Intro Screen 2" width="23%">
+<img src="assets/screenshots/ss_03.png" alt="Intro Screen 3" width="23%">
 
-![Intro Screen 3](assets/screenshots/ss_03.png)
+<img src="assets/screenshots/ss_04.png" alt="Home Screen" width="23%">
+<img src="assets/screenshots/ss_05.png" alt="Available Servers" width="23%">
+<img src="assets/screenshots/ss_06.png" alt="Server Expander" width="23%">
+<img src="assets/screenshots/ss_07.png" alt="Connect Screen" width="23%">
 
-![Home Screen](assets/screenshots/ss_04.png)
+<img src="assets/screenshots/ss_08.png" alt="Connecting Screen" width="23%">
+<img src="assets/screenshots/ss_09.png" alt="Disconnect Screen" width="23%">
+<img src="assets/screenshots/ss_10.png" alt="Server Details" width="23%">
+<img src="assets/screenshots/ss_11.png" alt="Proxy Screen" width="23%">
 
-![Avalable Servers](assets/screenshots/ss_05.png)
+<img src="assets/screenshots/ss_12.png" alt="Share Screen" width="23%">
+<img src="assets/screenshots/ss_13.png" alt="Load Screen" width="23%">
 
-![Server Expander](assets/screenshots/ss_06.png)
-
-![Connect Screen](assets/screenshots/ss_07.png)
-
-![Connecting Screen](assets/screenshots/ss_08.png)
-
-![Disconnect Screen](assets/screenshots/ss_09.png)
-
-![Server Details](assets/screenshots/ss_10.png)
-
-![Proxy Screen](assets/screenshots/ss_11.png)
-
-![Share Screen](assets/screenshots/ss_12.png)
-
-![Load Screen](assets/screenshots/ss_13.png)
+</div>
 
 ---
+
 
 ## Tech Stack
 
